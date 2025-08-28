@@ -1,0 +1,31 @@
+// src/utils/translations.js
+export const translations = {
+    id: {
+        title: "Formulir Pendaftaran",
+        subtitle: "Daftarkan diri Anda sekarang!",
+        name: "Nama Lengkap",
+        email: "Email",
+        register: "Daftar Sekarang",
+        verify: "Verifikasi",
+        codeSent: "Kode verifikasi telah dikirim ke",
+        enterCode: "Masukkan kode 6 digit",
+        success: "Berhasil Diverifikasi!",
+        thankYou: "Terima kasih telah mendaftar.",
+        dashboard: "Admin Dashboard",
+        noData: "Belum ada peserta terdaftar.",
+    },
+    en: {
+        title: "Registration Form",
+        subtitle: "Register now!",
+        name: "Full Name",
+        email: "Email",
+        register: "Register Now",
+        verify: "Verify",
+        codeSent: "Verification code sent to",
+        enterCode: "Enter 6-digit code",
+        success: "Verified Successfully!",
+        thankYou: "Thank you for registering.",
+        dashboard: "Admin Dashboard",
+        noData: "No participants registered yet.",
+    },
+};
